@@ -1,0 +1,8 @@
+# Ignore image and text output files
+screenshot.png
+screenshot.txt
+tags
+Dockerfile
+screen_read
+
+
