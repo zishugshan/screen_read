@@ -13,6 +13,6 @@ This application helps you **read and copy text from any part of the screen**, e
 ### Option 1: Compile Locally (Linux/macOS)
 
 ```bash
-gcc -o screen_read screen_read.c api_endpoints.c functions.c
+gcc -o screen_read screen_read.c functions.c
 ./screen_read
 

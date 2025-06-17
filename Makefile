@@ -2,7 +2,7 @@ CC=gcc
 CFLAGS=-Wall
 LDFLAGS=-lcurl 
 
-SRC=screen_read.c api_endpoints.c functions.c
+SRC=screen_read.c functions.c
 TARGET=screen_read
 
 all:
